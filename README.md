@@ -1,2 +1,2 @@
 # Smallpotato
-Something in
+Something in daily life.
